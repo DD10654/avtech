@@ -18,19 +18,19 @@ const Footer: NextPage = () => {
                     <ListItem><motion.h1 className="text-center text-5xl bg-gradient-to-r from-cyan-200 to-sky-800 text-gradient self-center cursor-default" whileHover={{ scale: 1.2 }}>Quick Links</motion.h1></ListItem>
                     <ListItem><motion.h1 className="text-center text-5xl bg-gradient-to-r from-cyan-200 to-sky-800 text-gradient self-center cursor-default" whileHover={{ scale: 1.2 }}>Contact Info</motion.h1></ListItem>
                     <ListItem><h2 className="ListItems px-2">Our Goal at AvTech is to assist you with you logistics Issues</h2></ListItem>
-                    <ListItem><h2 className="ListItems mb-5 mt-0">
+                    a{/* <ListItem><h2 className="ListItems mb-5 mt-0">
                         <Link href="/shippers">Shippers</Link>
-                    </h2></ListItem>
+                    </h2></ListItem> */}
                     <ListItem><h2 className="ListItems">Facebook</h2></ListItem>
                     <ListItem><div className="opacity-0">hello</div></ListItem>
-                    <ListItem><h2 className="ListItems mb-5 mt-0">
+                    a{/* <ListItem><h2 className="ListItems mb-5 mt-0">
                         <Link href="/about">About</Link>
-                    </h2></ListItem>
+                    </h2></ListItem> */}
                     <ListItem><h2 className="ListItems">Instagram</h2></ListItem>
                     <ListItem><div className="opacity-0">hello</div></ListItem>
-                    <ListItem><h2 className="ListItems mb-5 mt-0">
+                    a{/* <ListItem><h2 className="ListItems mb-5 mt-0">
                         <Link href="/carriers">Carriers</Link>
-                    </h2></ListItem>
+                    </h2></ListItem> */}
                     <ListItem><h2 className="ListItems">LinkedIn</h2></ListItem>
 
                 </SimpleGrid></Col>
