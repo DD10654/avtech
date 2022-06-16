@@ -21,7 +21,7 @@ const Home: NextPage = () => {
                     fontSize: 50
                 }}
                 // TODO REMOVE SITE IN PROGRESS
-            ><br />__SITE IN PROGRESS</div>
+            ><br />__SITE IS AMAZING</div>
         ))}
     </Carousel>
     </div>
